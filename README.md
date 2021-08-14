@@ -39,7 +39,6 @@ There will be 20 different account created with each account having 10000 fake E
 
 
 Accounts
-========
 Account #0: 0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266 (10000 ETH)
 Private Key: 0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80
 
@@ -58,7 +57,7 @@ Output - Greeter deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
 This address is what we will use in our client application to talk to the smart contract. Save this address
  as we will need to use it when connecting to it from the client application.
 
-3) Run nom start
+3) Run npm start
 
 4) Test it using the metamask wallet & click on the set greeting button on the UI by sending tokens to the wallet id
 
