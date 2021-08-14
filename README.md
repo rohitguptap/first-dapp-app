@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 a) PROJECT SETUP:
 1) npm install hardhat ethers @nomiclabs/hardhat-waffle  ethereum-waffle chai @nomiclabs/hardhat-ethers
 
@@ -37,7 +36,8 @@ Step 2:
 1) Deploy our smart contract to a local blockchain  : Run 'npx hardhat node'
 
 There will be 20 different account created with each account having 10000 fake ETH
-'''
+
+
 Accounts
 ========
 Account #0: 0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266 (10000 ETH)
@@ -48,7 +48,6 @@ Private Key: 0x59c6995e998f97a5a0044966f0945389dc9e86dae88c7a8412f4603b6b78690d
 
 Account #2: 0x3c44cdddb6a900fa2b585dd299e03d12fa4293bc (10000 ETH)
 Private Key: 0x5de4111afa1a4b94908f83103eb1f1706367c2e68ca870fc3fb9a804cdab365a
-'''
 
 
 2) Deploy the greeter smart contract to local blockchain network:
@@ -59,8 +58,9 @@ Output - Greeter deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
 This address is what we will use in our client application to talk to the smart contract. Save this address
  as we will need to use it when connecting to it from the client application.
 
+3) Run nom start
 
-3) Test it using the metamask wallet & click on the set greeting button on the UI by sending tokens to the wallet id
+4) Test it using the metamask wallet & click on the set greeting button on the UI by sending tokens to the wallet id
 
 
 In the project directory, you can run:
