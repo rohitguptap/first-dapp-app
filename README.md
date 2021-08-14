@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with a simple decentralized application using react, solidity & local Ethereum network for testing
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 a) PROJECT SETUP:
